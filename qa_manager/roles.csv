@@ -1,0 +1,5 @@
+role_id,role_type
+1,admin
+2,qa_manager
+7,qa_coordinator
+8,staff
